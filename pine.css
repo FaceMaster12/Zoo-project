@@ -12,7 +12,7 @@ left: 0;
 z-index:500 ;
 width: 100%;
 height: 80px;
-background-image: url("C:/Users/Asus/Documents/fnb week3/AppAcademyWeek3-main/pineCityZooImages/images/wood-bg.png");
+background-image: url("images/wood-bg.png");
 background-repeat: repeat-x;
 }
 #header img{
@@ -80,7 +80,7 @@ background-color: forestgreen;
 /*=======================MAIN========================*/
 #Main{
 margin: 119px;
-background: url('C:/Users/Asus/Documents/fnb week3/AppAcademyWeek3-main/pineCityZooImages/images/map-blur.png');
+background: url('images/map-blur.png');
 background-repeat: repeat-y;
 }
 
